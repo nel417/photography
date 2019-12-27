@@ -8,17 +8,6 @@ padding: 0px;
   font-family: 'Inter', sans-serif;
 }
 
-/* Main content */
-
-
-
-
-
-
-
-
-
-
 
 .pictures {
   text-align: center;
@@ -30,7 +19,7 @@ padding: 0px;
  left: 50%;
 }
 
-.yo, .bike, .chi, .co, .construction, .converse, .dan, .dann, .house, .mo, .moto, .mus, .nash, .stuct, .one, .graff, .trail, .tre, .open , .msu, .pool, .old{
+.yo, .bike, .chi, .co, .construction, .converse, .dan, .dann, .house, .mo, .moto, .mus, .nash, .struct, .one, .graff, .trail, .tre, .open , .msu, .pool, .old{
   height: 700px;
   width: 550px;
   padding-bottom: 25px;
