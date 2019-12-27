@@ -1,0 +1,51 @@
+@import url('https://rsms.me/inter/inter.css');
+
+HTML, body {
+margin: 0px;
+padding: 0px;
+  border: 0px;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Main content */
+
+
+
+
+
+
+
+
+
+
+
+.pictures {
+  text-align: center;
+  display: flex;
+ align-items: center;
+ flex-direction: column;
+ height: 600px;
+ width: 400px ;
+ left: 50%;
+}
+
+.yo, .bike, .chi, .co, .construction, .converse, .dan, .dann, .house, .mo, .moto, .mus, .nash, .stuct, .one, .graff, .trail, .tre, .open , .msu, .pool, .old{
+  height: 700px;
+  width: 550px;
+  padding-bottom: 25px;
+}
+
+.main {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+ text-align: center; 
+}
+
+.bug, .shed, .plas {
+  height: 550px;
+  width: 550px;
+  padding-bottom: 25px;
+}
